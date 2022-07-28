@@ -54,5 +54,3 @@ You are close to several great cities with many things to do and checkout:
 **When is the wedding?**
 
 Saturday August 20th, 2022 @ 2:30p
-
-**Will there be food?**
