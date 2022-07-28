@@ -1,3 +1,5 @@
+<title>Maria & Jon's Wedding</title>
+
 <h1>Maria & Jon's Wedding</h1>
 
 ![Maria & Jon](image.jpg)

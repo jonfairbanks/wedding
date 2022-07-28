@@ -1,5 +1,6 @@
 name: Maria & Jon's Wedding
-title: Maria & Jon's Wedding
+title: null
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-relative-links
 relative_links:
