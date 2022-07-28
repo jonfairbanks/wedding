@@ -1,5 +1,7 @@
 <h1>Maria & Jon's Wedding</h1>
 
+![Maria & Jon](image.jpg)
+
 <h4>Where am I?</h4>
 
 You likely flew into SJC Airport in San Jose, California and are close to the downtown area.
@@ -52,3 +54,5 @@ You are close to several great cities with many things to do and checkout:
 **When is the wedding?**
 
 Saturday August 20th, 2022 @ 2:30p
+
+**Will there be food?**
