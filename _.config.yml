@@ -1,9 +1,0 @@
-name: Maria & Jon's Wedding
-title: null
-plugins:
-  - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - README.md
