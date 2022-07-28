@@ -4,15 +4,15 @@
 
 ![Maria & Jon](image.jpg)
 
-<h4>Where am I?</h4>
+<h3>Where am I?</h3>
 
 You likely flew into SJC Airport in San Jose, California and are close to the downtown area.
 
-<h4>What is there to do here?</h4>
+<h3>What is there to do here?</h3>
 
 You are close to several great cities with many things to do and checkout:
 
-- **San Jose**
+- <h4>San Jose</h4>
 ![Downtown San Jose](https://media.timeout.com/images/105259643/image.jpg)
 	- Many well-known tech companies are based out of the Bay Area, specifically in San Jose
 		- [Apple Visitor Center](https://www.google.com/maps/place/Apple+Apple+Park+Visitor+Center/@37.3327772,-122.0075731,17z/data=!3m1!4b1!4m5!3m4!1s0x808fb5c5d7e7a3d1:0x1741de234d732f80!8m2!3d37.332773!4d-122.0053844)
