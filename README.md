@@ -55,3 +55,19 @@ You are close to several great cities with many things to do and checkout:
 <h3>When is the wedding?</h3>
 
 Saturday August 20th, 2022 @ 2:30p
+
+<h3>Will there be food?</h3>
+
+Yes
+
+<h3>What's the schedule for this dealio?</h3>
+
+2:30p - Guest Arrival
+3:00p - Ceremony
+3:30p - Appetizers 
+4:30p - Dinner 
+5:15p - Speeches/toast
+6:30p - First Dance
+7:00p - Cake
+7:30p - Dancing
+????? - Party
