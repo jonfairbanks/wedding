@@ -62,12 +62,12 @@ Yes
 
 <h3>What's the schedule for this dealio?</h3>
 
-2:30p - Guest Arrival
-3:00p - Ceremony
-3:30p - Appetizers 
-4:30p - Dinner 
-5:15p - Speeches/toast
-6:30p - First Dance
-7:00p - Cake
-7:30p - Dancing
-????? - Party
+- 2:30p - Guest Arrival
+- 3:00p - Ceremony
+- 3:30p - Appetizers 
+- 4:30p - Dinner 
+- 5:15p - Speeches/toast
+- 6:30p - First Dance
+- 7:00p - Cake
+- 7:30p - Dancing
+- ????? - Party
