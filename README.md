@@ -71,3 +71,7 @@ Yes
 - 7:00p - Cake
 - 7:30p - Dancing
 - ????? - Party
+
+<h3>Can I get a copy of the pictures?</h3>
+
+[Yes, pictures are available here.](https://fbnks.io/weddingpics)
